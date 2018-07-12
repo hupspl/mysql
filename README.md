@@ -1,0 +1,7 @@
+# mysql
+mysql
+
+
+
+
+cos tam
